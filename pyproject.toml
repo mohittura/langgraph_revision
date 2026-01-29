@@ -14,5 +14,6 @@ dependencies = [
     "langchain-huggingface>=1.2.0",
     "langchain-openai>=1.1.7",
     "langgraph>=1.0.7",
+    "langgraph-checkpoint-sqlite>=3.0.3",
     "sentence-transformers>=5.2.2",
 ]
